@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCleaner", "AutoCleaner\AutoCleaner.csproj", "{874A28A0-0A89-4D69-8A4F-A19792BDC351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874A28A0-0A89-4D69-8A4F-A19792BDC351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874A28A0-0A89-4D69-8A4F-A19792BDC351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874A28A0-0A89-4D69-8A4F-A19792BDC351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874A28A0-0A89-4D69-8A4F-A19792BDC351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5C2459-B8FC-4C77-BE4F-5B23FC9A856D}
+	EndGlobalSection
+EndGlobal

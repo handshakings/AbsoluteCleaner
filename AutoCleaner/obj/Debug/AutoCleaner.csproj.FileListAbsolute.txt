@@ -1,0 +1,9 @@
+F:\abc\DO\AutoCleaner\AutoCleaner\bin\Debug\AutoCleaner.exe
+F:\abc\DO\AutoCleaner\AutoCleaner\bin\Debug\AutoCleaner.pdb
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.csproj.AssemblyReference.cache
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.Properties.Resources.resources
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.csproj.GenerateResource.cache
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.csproj.CoreCompileInputs.cache
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.exe
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.pdb
+F:\abc\DO\AutoCleaner\AutoCleaner\obj\Debug\AutoCleaner.Home.resources
